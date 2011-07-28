@@ -10,7 +10,7 @@ from urlparse import urlparse
 
 server = 'graph.facebook.com'
 myID = 'tpe11etier'
-accessToken = '219829968059223|2.AQCNSrupRACnjhKJ.3600.1311868800.0-1015377839|mmgdXr_PrqvNWdPfPZ5wUufgk2c'
+accessToken = 'PUT YOUR TOKEN HERE'
 URL = "/tpe11etier/friends?access_token=" + accessToken
 
 def getfriends():
