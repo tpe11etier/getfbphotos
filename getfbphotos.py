@@ -7,6 +7,9 @@ from urllib import urlretrieve
 from urllib import urlopen
 from urlparse import urlparse
 
+"""
+Simple programs to grab profile photos of all friends.
+"""
 
 server = 'graph.facebook.com'
 myID = 'tpe11etier'
